@@ -88,4 +88,4 @@ Recalcular o valor da Função-objetivo
 
 **Lucas Eduardo**  
 Engenheiro de Software | Desenvolvedor de Sistemas  
-[GitHub](https://github.com/olucaseduardo) | [LinkedIn](https://www.linkedin.com/in/lucas-eduardo-89a92a328/) | [E-mail](mailto:le.eduardp.dev@gmail.com)
+[GitHub](https://github.com/olucaseduardo) | [LinkedIn](https://www.linkedin.com/in/lucas-eduardo-89a92a328/) | [E-mail](mailto:le.eduardo.dev@gmail.com)
