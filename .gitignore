@@ -1,0 +1,12 @@
+# Diretórios e arquivos do ambiente virtual
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Configurações do editor/IDE
+.vscode/
+.idea/
